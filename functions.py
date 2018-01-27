@@ -1,9 +1,9 @@
 import pygame
 import sys
-from 初始设置 import Settings
-from  飞船 import Ship
-from 子弹 import Bullet
-from 外星人 import Alien
+from settings import Settings
+from  ship import Ship
+from bullet import Bullet
+from alien import Alien
 
 
 

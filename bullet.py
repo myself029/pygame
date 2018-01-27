@@ -1,7 +1,7 @@
 import  pygame
 from pygame.sprite import Sprite
 
-
+    
 
 class Bullet(Sprite):
 	""" 一个对飞船发射子弹进行编组管理的类 """

@@ -1,5 +1,5 @@
 import pygame
-from 飞船 import Ship
+
 
 class Settings():
 	def __init__(self):
